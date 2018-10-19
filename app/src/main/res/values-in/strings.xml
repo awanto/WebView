@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Awanto Webview</string>
+    <string name="image_view">Tampilan Gambar</string>
+    <string name="loading">Memuat</string>
+    <string name="mgks_promo">awanto.cf</string>
+    <string name="rate_dialog_title">Rating</string>
+    <string name="rate_dialog_message">Jika Anda menyukai aplikasi kami, maukah Anda meluangkan waktu untuk menilai itu? Ini tidak akan memakan waktu lebih dari satu menit. Terima kasih!</string>
+    <string name="rate_dialog_ok">RATE</string>
+    <string name="rate_dialog_cancel">Jangan sekarang</string>
+    <string name="rate_dialog_no">Jangan tampilkan lagi</string>
+    <string name="loc_req">Tolong izinkan aplikasi ini untuk mendapatkan informasi lokasi Anda.</string>
+    <string name="loc_fail">Gagal Menemukan Lokasi</string>
+    <string name="loc_fail_text">Silakan Periksa Lokasi GPS Anda.</string>
+    <string name="loc_fail_more">Silakan periksa apakah GPS Anda diaktifkan, jika tidak, silakan atur pada akurasi tinggi dari pengaturan lokasi.</string>
+    <string name="loc_perm">Izinkan untuk Lokasi</string>
+    <string name="loc_perm_text">Beri izin aplikasi ini untuk memeriksa lokasi Anda.</string>
+    <string name="loc_perm_more">Harap izinkan aplikasi ini untuk mengetahui lokasi Anda untuk pengalaman keseluruhan yang lebih baik.</string>
+</resources>
